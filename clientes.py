@@ -1,7 +1,7 @@
 clientes = [
-    {"id": 1, "nombre": "Ana", "edad": 30, "saldo": 1000.0},
-    {"id": 2, "nombre": "Luis Efanier", "edad": 25, "saldo": 1500.0},
-    {"id": 3, "nombre": "Marta", "edad": 28, "saldo": 2000.0},
+    {"id": 1, "nombre": "Ana", "edad": 30, "saldo": 1000000.0},
+    {"id": 2, "nombre": "Luis Efanier", "edad": 25, "saldo": 1500000.0},
+    {"id": 3, "nombre": "Marta", "edad": 28, "saldo": 2000000.0}
 ]
 
 def mostrar_clientes():
