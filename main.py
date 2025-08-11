@@ -1,5 +1,5 @@
 mensajes = ["Ejemplo: Ana - Primera practica en Github"
-            "Julian - Hola mundo",
+            "Efanier - Una cosa de locos este GITHUB -_-",
             ]
 
 for m in mensajes:
